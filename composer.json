@@ -1,0 +1,19 @@
+{
+  "name": "MauriceLBruijn/genesis-custom-blocks",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/mauricelbruijn/genesis-custom-blocks",
+  "authors": [
+    {
+      "name": "Maurice Bruijn",
+      "homepage": "https://simplybruijnonline.nl"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">8.0"
+  }
+}
